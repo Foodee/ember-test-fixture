@@ -1,0 +1,1 @@
+# ember-test-fixture
